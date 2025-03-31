@@ -1,0 +1,28 @@
+ENVIRONMENT:
+• LAN segment range: 10.1.17.0/24 (10.1.17.0 through 10.1.17.255)
+• Domain: bluemoontuesday.com
+• AD environment name: BLUEMOONTUESDAY
+• Domain Controller: 10.1.17.2 – WIN-GSH54QLW48D
+• LAN segment gateway: 10.1.17.1
+• LAN segment broadcast address: 10.1.17.255
+
+TASK
+
+For this exercise, answer the following questions for your incident report:
+
+    What is the IP address of the infected Windows client?
+    10.1.17.215
+    What is the mac address of the infected Windows client?
+    10.1.17.2
+    What is the host name of the infected Windows client?
+    What is the user account name from the infected Windows client?
+    What is the likely domain name for the fake Google Authenticator page?
+    Bluemoontuesday.com
+    What are the IP addresses used for C2 servers for this infection?
+    20.125.209.212
+
+
+Changing Column Display
+Identify Hosts and users
+Display FIlter Expressions
+Exporting Objects from Pcap
